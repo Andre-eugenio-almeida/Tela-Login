@@ -1,4 +1,4 @@
-Criando uma tela de Login, omnde pode ser usada em qualquer projeto que precisar de um login e senha para acessar suas aplicações.
+Criando uma tela de Login, pode ser usada em qualquer projeto que precisar de um login e senha para acessar suas aplicações.
 
 Importei o Tkinter e Tk Tkk;
 
